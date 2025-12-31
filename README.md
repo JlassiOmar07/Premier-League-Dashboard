@@ -2,6 +2,8 @@
 
 PremierLeague is a full-stack project for studying Premier League player stats. It provides a backend API for managing player data and a React frontend for browsing, filtering, and editing records.
 
+![PremierLeague screenshot](PL_FrontEnd/public/screenshot.png)
+
 ## Features
 - Backend: Spring Boot REST API for CRUD operations and filtered queries.
 - Database: PostgreSQL persistence with JPA.
